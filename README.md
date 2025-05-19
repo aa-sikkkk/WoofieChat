@@ -1,7 +1,7 @@
 # WoofieChat - AI-Powered Pet Care Assistant
 
 
-#### Video Demo: (https://youtu.be/y8G1eajXLNU)[https://youtu.be/y8G1eajXLNU]
+#### Video Demo: [https://youtu.be/y8G1eajXLNU](https://youtu.be/y8G1eajXLNU)
 #### Description:
 
 WoofieChat is an intelligent, AI-powered pet care assistant designed to provide accurate and personalized advice for pet owners. Built using advanced natural language processing (NLP) and semantic search, WoofieChat understands user queries and offers reliable responses related to pet care.
