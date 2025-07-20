@@ -8,7 +8,7 @@ WoofieChat is an intelligent, AI-powered pet care assistant designed to provide 
 
 #### What Motivated Me
 
-As an extension of the[ Woofie pet management system](https://www.aashikbaruwal.com.np/projects/woofie " Woofie pet management system") developed by me, WoofieChat aims to provide interactive, accurate advice for pet owners. I have found that they often struggle to find accurate and context-specific advice about their pet's care. WoofieChat addresses this gap by offering a conversational assistant that leverages AI to deliver relevant pet care guidance. Whether it's about feeding, grooming, or health concerns, WoofieChat provides valuable insights in a user-friendly format.
+As an extension of the[ Woofie pet management system](https://woofiedoc.aashikbaruwal.com.np/projects/woofie " Woofie pet management system") developed by me, WoofieChat aims to provide interactive, accurate advice for pet owners. I have found that they often struggle to find accurate and context-specific advice about their pet's care. WoofieChat addresses this gap by offering a conversational assistant that leverages AI to deliver relevant pet care guidance. Whether it's about feeding, grooming, or health concerns, WoofieChat provides valuable insights in a user-friendly format.
 
 ### ## Key Features
 
